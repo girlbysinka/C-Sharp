@@ -1,13 +1,10 @@
 ﻿// Напишите программу, которая принимает на вход трёхзначное число и на выходе показывает последнюю цифру этого числа. 456 -> 6 782 -> 2 918 -> 8
 Console.Clear();
 
-Console.Write("Введите трёхзначное число: ");;
+int userNumber = new int();
+Console.WriteLine("Введите трёхзначное число: ");
+userNumber = Convert.ToInt32(Console.ReadLine());
 
-int number = new Random().Next(1,10);
-Console.Write(b);
+int digit = userNumber%10;
 
-int c = new Random().Next(1,10);
-Console.WriteLine(c);
-
-    Console.Write("Последняя цифра в числе = ");
-    Console.Write(c);
+Console.Write($"Последняя цифра в числе = {digit}");
