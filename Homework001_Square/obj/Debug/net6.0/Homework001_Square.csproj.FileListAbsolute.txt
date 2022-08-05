@@ -1,0 +1,16 @@
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework001_Square\bin\Debug\net6.0\Homework001_Square.exe
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework001_Square\bin\Debug\net6.0\Homework001_Square.deps.json
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework001_Square\bin\Debug\net6.0\Homework001_Square.runtimeconfig.json
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework001_Square\bin\Debug\net6.0\Homework001_Square.dll
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework001_Square\bin\Debug\net6.0\ref\Homework001_Square.dll
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework001_Square\bin\Debug\net6.0\Homework001_Square.pdb
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework001_Square\obj\Debug\net6.0\Homework001_Square.GlobalUsings.g.cs
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework001_Square\obj\Debug\net6.0\Homework001_Square.csproj.AssemblyReference.cache
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework001_Square\obj\Debug\net6.0\Homework001_Square.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework001_Square\obj\Debug\net6.0\Homework001_Square.AssemblyInfoInputs.cache
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework001_Square\obj\Debug\net6.0\Homework001_Square.AssemblyInfo.cs
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework001_Square\obj\Debug\net6.0\Homework001_Square.csproj.CoreCompileInputs.cache
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework001_Square\obj\Debug\net6.0\Homework001_Square.dll
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework001_Square\obj\Debug\net6.0\ref\Homework001_Square.dll
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework001_Square\obj\Debug\net6.0\Homework001_Square.pdb
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework001_Square\obj\Debug\net6.0\Homework001_Square.genruntimeconfig.cache

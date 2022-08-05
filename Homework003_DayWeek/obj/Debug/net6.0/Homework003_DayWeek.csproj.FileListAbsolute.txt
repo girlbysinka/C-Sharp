@@ -1,0 +1,16 @@
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework003_DayWeek\obj\Debug\net6.0\Homework003_DayWeek.GlobalUsings.g.cs
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework003_DayWeek\obj\Debug\net6.0\Homework003_DayWeek.csproj.AssemblyReference.cache
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework003_DayWeek\obj\Debug\net6.0\Homework003_DayWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework003_DayWeek\obj\Debug\net6.0\Homework003_DayWeek.AssemblyInfoInputs.cache
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework003_DayWeek\obj\Debug\net6.0\Homework003_DayWeek.AssemblyInfo.cs
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework003_DayWeek\obj\Debug\net6.0\Homework003_DayWeek.csproj.CoreCompileInputs.cache
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework003_DayWeek\bin\Debug\net6.0\Homework003_DayWeek.exe
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework003_DayWeek\bin\Debug\net6.0\Homework003_DayWeek.deps.json
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework003_DayWeek\bin\Debug\net6.0\Homework003_DayWeek.runtimeconfig.json
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework003_DayWeek\bin\Debug\net6.0\Homework003_DayWeek.dll
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework003_DayWeek\bin\Debug\net6.0\ref\Homework003_DayWeek.dll
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework003_DayWeek\bin\Debug\net6.0\Homework003_DayWeek.pdb
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework003_DayWeek\obj\Debug\net6.0\Homework003_DayWeek.dll
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework003_DayWeek\obj\Debug\net6.0\ref\Homework003_DayWeek.dll
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework003_DayWeek\obj\Debug\net6.0\Homework003_DayWeek.pdb
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework003_DayWeek\obj\Debug\net6.0\Homework003_DayWeek.genruntimeconfig.cache

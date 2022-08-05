@@ -1,0 +1,16 @@
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework002_SquareOrNot\bin\Debug\net6.0\Homework002_SquareOrNot.exe
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework002_SquareOrNot\bin\Debug\net6.0\Homework002_SquareOrNot.deps.json
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework002_SquareOrNot\bin\Debug\net6.0\Homework002_SquareOrNot.runtimeconfig.json
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework002_SquareOrNot\bin\Debug\net6.0\Homework002_SquareOrNot.dll
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework002_SquareOrNot\bin\Debug\net6.0\ref\Homework002_SquareOrNot.dll
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework002_SquareOrNot\bin\Debug\net6.0\Homework002_SquareOrNot.pdb
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework002_SquareOrNot\obj\Debug\net6.0\Homework002_SquareOrNot.GlobalUsings.g.cs
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework002_SquareOrNot\obj\Debug\net6.0\Homework002_SquareOrNot.csproj.AssemblyReference.cache
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework002_SquareOrNot\obj\Debug\net6.0\Homework002_SquareOrNot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework002_SquareOrNot\obj\Debug\net6.0\Homework002_SquareOrNot.AssemblyInfoInputs.cache
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework002_SquareOrNot\obj\Debug\net6.0\Homework002_SquareOrNot.AssemblyInfo.cs
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework002_SquareOrNot\obj\Debug\net6.0\Homework002_SquareOrNot.csproj.CoreCompileInputs.cache
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework002_SquareOrNot\obj\Debug\net6.0\Homework002_SquareOrNot.dll
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework002_SquareOrNot\obj\Debug\net6.0\ref\Homework002_SquareOrNot.dll
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework002_SquareOrNot\obj\Debug\net6.0\Homework002_SquareOrNot.pdb
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework002_SquareOrNot\obj\Debug\net6.0\Homework002_SquareOrNot.genruntimeconfig.cache

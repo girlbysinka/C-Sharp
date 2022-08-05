@@ -1,0 +1,16 @@
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework005_DigitInNumber\bin\Debug\net6.0\Homework005_DigitInNumber.exe
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework005_DigitInNumber\bin\Debug\net6.0\Homework005_DigitInNumber.deps.json
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework005_DigitInNumber\bin\Debug\net6.0\Homework005_DigitInNumber.runtimeconfig.json
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework005_DigitInNumber\bin\Debug\net6.0\Homework005_DigitInNumber.dll
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework005_DigitInNumber\bin\Debug\net6.0\ref\Homework005_DigitInNumber.dll
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework005_DigitInNumber\bin\Debug\net6.0\Homework005_DigitInNumber.pdb
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework005_DigitInNumber\obj\Debug\net6.0\Homework005_DigitInNumber.GlobalUsings.g.cs
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework005_DigitInNumber\obj\Debug\net6.0\Homework005_DigitInNumber.csproj.AssemblyReference.cache
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework005_DigitInNumber\obj\Debug\net6.0\Homework005_DigitInNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework005_DigitInNumber\obj\Debug\net6.0\Homework005_DigitInNumber.AssemblyInfoInputs.cache
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework005_DigitInNumber\obj\Debug\net6.0\Homework005_DigitInNumber.AssemblyInfo.cs
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework005_DigitInNumber\obj\Debug\net6.0\Homework005_DigitInNumber.csproj.CoreCompileInputs.cache
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework005_DigitInNumber\obj\Debug\net6.0\Homework005_DigitInNumber.dll
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework005_DigitInNumber\obj\Debug\net6.0\ref\Homework005_DigitInNumber.dll
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework005_DigitInNumber\obj\Debug\net6.0\Homework005_DigitInNumber.pdb
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework005_DigitInNumber\obj\Debug\net6.0\Homework005_DigitInNumber.genruntimeconfig.cache

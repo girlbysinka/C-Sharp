@@ -1,0 +1,16 @@
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework004_Range\obj\Debug\net6.0\Homework004_Range.GlobalUsings.g.cs
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework004_Range\obj\Debug\net6.0\Homework004_Range.csproj.AssemblyReference.cache
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework004_Range\obj\Debug\net6.0\Homework004_Range.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework004_Range\obj\Debug\net6.0\Homework004_Range.AssemblyInfoInputs.cache
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework004_Range\obj\Debug\net6.0\Homework004_Range.AssemblyInfo.cs
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework004_Range\obj\Debug\net6.0\Homework004_Range.csproj.CoreCompileInputs.cache
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework004_Range\bin\Debug\net6.0\Homework004_Range.exe
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework004_Range\bin\Debug\net6.0\Homework004_Range.deps.json
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework004_Range\bin\Debug\net6.0\Homework004_Range.runtimeconfig.json
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework004_Range\bin\Debug\net6.0\Homework004_Range.dll
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework004_Range\bin\Debug\net6.0\ref\Homework004_Range.dll
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework004_Range\bin\Debug\net6.0\Homework004_Range.pdb
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework004_Range\obj\Debug\net6.0\Homework004_Range.dll
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework004_Range\obj\Debug\net6.0\ref\Homework004_Range.dll
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework004_Range\obj\Debug\net6.0\Homework004_Range.pdb
+C:\Users\Мальцевы\Documents\Проектный менеджер\git\Examples\Homework004_Range\obj\Debug\net6.0\Homework004_Range.genruntimeconfig.cache
