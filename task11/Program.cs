@@ -35,4 +35,5 @@ void CheckMultiplicityNumberOneNumberTwo()
     {
         Console.WriteLine($"Число {number2} НЕкратно числу {number1}. Остаток от деления равен {remainder}");
     }
+    return;
     }
