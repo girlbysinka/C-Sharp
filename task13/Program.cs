@@ -32,7 +32,7 @@ void CheckMultiplicityNumberOneNumberTwo()
 
     else if (number2 == number1 * number1)
         {
-        Console.Write ($"Число {number2} является квдратом числа {number1}");
+        Console.Write ($"Число {number2} является квадратом числа {number1}");
         }
             
         else
