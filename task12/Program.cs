@@ -23,6 +23,7 @@ void CheckMultiplicityUserNumberTwoNumbers()
     }
     else
     {
-        Console.WriteLine($"Введенное число НЕкратно одному из чисел: либо числу {number1}, либо числу {number2}");
+        Console.WriteLine($"Введенное число НЕкратно одному из чисел: числу {number1}, числу {number2}");
     }
+    return;
     }
